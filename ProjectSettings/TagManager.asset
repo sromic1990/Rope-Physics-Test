@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Link
+  - Tag
   layers:
   - Default
   - TransparentFX
@@ -38,6 +40,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: SortingLayerBG
+    uniqueID: 3490903145
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Rope
+    uniqueID: 1855116169
     locked: 0
